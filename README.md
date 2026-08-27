@@ -2,7 +2,7 @@
 
 > **Applicazione desktop professionale per la gestione e pianificazione dei lavori di cantiere**, con diagramma di Gantt interattivo, gestione delle dipendenze tra lavorazioni, notifiche intelligenti ed esportazione PDF.
 
-**Copyright © Giuseppe Lobbene Design 2004**
+**Copyright © Giuseppe Lobbene Design 2026**
 
 ---
 
@@ -152,7 +152,7 @@ cronoprogramma/
 ## 📄 Licenza
 
 Questo progetto è di proprietà esclusiva di **Giuseppe Lobbene**.  
-**Copyright © Giuseppe Lobbene Design 2004** – Tutti i diritti riservati.
+**Copyright © Giuseppe Lobbene Design 2026** – Tutti i diritti riservati.
 
 ---
 
